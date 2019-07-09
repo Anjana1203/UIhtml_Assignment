@@ -93,11 +93,7 @@ text-align: center;
 padding: 15px;
 
 }
-.section_2 img{
-  border-radius: 50%;
-  border: 2px solid #B2D6FF;
-  padding: 2px;
-}
+
 /*----------------------------------------------------------------------------------------------*/
 
 .tooltip {
@@ -228,6 +224,7 @@ padding: 15px;
 
 /* Mobile Styles */
 @media only screen and (max-width: 500px) {
+  
   .section_resp{
   width: 50%;
 }
